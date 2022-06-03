@@ -1,0 +1,13 @@
+fieldset{
+    justify-content: space-around;
+    position: center;
+    display: flex;
+    color: green;
+    width: 80%;}
+    ul#outside {list-style-position: outside;}
+ul#inside {list-style-position: inside;}
+ul{
+    display: flex;
+    position: center;
+    justify-content: space-around;
+}
